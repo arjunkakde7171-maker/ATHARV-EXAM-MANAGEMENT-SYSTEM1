@@ -1,0 +1,16 @@
+ATHARV EXAM MANAGEMENT SYSTEM - GITHUB UPLOAD
+
+1. Open the ZIP file and extract it.
+2. Open your GitHub repository.
+3. Click Add file > Upload files.
+4. Upload all files and folders inside this project folder:
+   - app.py
+   - requirements.txt
+   - README.md
+   - templates folder
+   - static folder
+   - RUN_EXAM_SYSTEM.bat
+   - .gitignore
+5. Click Commit changes.
+
+After upload, your repository structure should keep templates and static as folders.
