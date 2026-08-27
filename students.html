@@ -1,0 +1,1 @@
+{% extends "base.html" %}{% block content %}<h1>Students</h1><table><tr><th>ID</th><th>Username</th><th>Name</th></tr>{% for s in students %}<tr><td>{{s.id}}</td><td>{{s.username}}</td><td>{{s.name}}</td></tr>{% endfor %}</table>{% endblock %}
